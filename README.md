@@ -17,11 +17,6 @@ This project implements a remote control panel using Python and wxPython, allowi
 - Pillow (for image handling)
 - `pywin32` (for Windows-specific functionalities, not required on macOS)
 
-You can install the required packages using pip:
-
-```bash
-pip install wxPython Pillow pywin32
-
 ## Setup
  - Run the Server: Start the server application first to listen for incoming connections.
 - Run the Client: Start the client application to connect to the server.
