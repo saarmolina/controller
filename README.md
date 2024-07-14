@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Remote Control Panel</title>
-</head>
-<body>
+
     <h1>Remote Control Panel</h1>
     <p>This project implements a remote control panel using Python and wxPython, allowing real-time screen sharing and remote interaction between a client and server application.</p>
 
