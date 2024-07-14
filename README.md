@@ -18,8 +18,8 @@ This project implements a remote control panel using Python and wxPython, allowi
 - `pywin32` (for Windows-specific functionalities, not required on macOS)
 
 ## Setup
- - Run the Server: Start the server application first to listen for incoming connections.
-- Run the Client: Start the client application to connect to the server.
+ - Run the Server: Start the server.py application first to listen for incoming connections.
+- Run the Client: Start the project.py application to connect to the server.
 
 ## Usage
 - Click the CONNECT button on the client to establish a connection to the server.
