@@ -12,7 +12,7 @@ This project implements a remote control panel using Python and wxPython, allowi
 
 ## Requirements
 
-- Python 3.x
+- Python 2
 - wxPython
 - Pillow (for image handling)
 - `pywin32` (for Windows-specific functionalities, not required on macOS)
