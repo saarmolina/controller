@@ -1,6 +1,6 @@
 # Remote Control Panel
 
-This project implements a remote control panel using Python and wxPython, allowing real-time screen sharing and remote interaction between a client and server application.
+This control software allows extensive control over another computer, enabling the controlling side to fully monitor the activity of the controlled machine and perform various operations. The system consists of two parts: a server (running on the controlled computer) and a client (on the controlling computer). Developed using Python, this software currently works on macOS and requires a connection to a local area network (LAN).
 
 ## Features
 
