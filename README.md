@@ -1,4 +1,4 @@
-# Controller 
+# Controller (for macOS)
 
 This control software allows extensive control over another computer, enabling the controlling side to fully monitor the activity of the controlled machine and perform various operations. The system consists of two parts: a server (running on the controlled computer) and a client (on the controlling computer). Developed using Python, this software currently works on macOS and requires a connection to a local area network (LAN).
 
